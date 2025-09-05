@@ -8,3 +8,8 @@ Stable Diffusion is a powerful text-to-image generative model that transforms na
 ## K-Nearest Neighbors (KNN)
 
 K-Nearest Neighbors (KNN) is a simple, yet powerful supervised machine learning algorithm used for classification and regression tasks. It works by identifying the 'k' closest data points to a given input based on a distance metric (commonly Euclidean distance), and makes predictions based on the majority class (for classification) or average value (for regression) of those neighbors. KNN is a non-parametric, instance-based learning method that requires no explicit training phase, making it intuitive and easy to implement.
+
+
+## Convolutional Neural Network (CNN)
+
+Convolutional Neural Networks (CNNs) are a class of deep learning models designed to process and analyze visual data. They use convolutional layers to automatically extract spatial features from images, followed by pooling and fully connected layers for classification or regression tasks. CNNs are widely used in computer vision applications such as image classification, object detection, and segmentation due to their ability to learn hierarchical patterns and reduce computational complexity.
