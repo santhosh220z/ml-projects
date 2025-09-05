@@ -18,3 +18,8 @@ Convolutional Neural Networks (CNNs) are a class of deep learning models designe
 ## K-Means Clustering
 
 K-Means is an unsupervised machine learning algorithm used to partition data into distinct clusters based on similarity. It works by initializing 'k' centroids, assigning each data point to the nearest centroid, and iteratively updating the centroids to minimize intra-cluster variance. K-Means is widely used for data segmentation, pattern discovery, and exploratory analysis due to its simplicity, scalability, and effectiveness in uncovering hidden structures in unlabeled datasets.
+
+
+## Large Language Model (LLM)
+
+Large Language Models (LLMs) are advanced deep learning systems trained on massive text datasets to understand, generate, and manipulate human language. They use transformer architectures to capture complex patterns in text, enabling tasks like text generation, summarization, translation, question answering, and code completion. LLMs power modern AI applications such as chatbots, virtual assistants, and intelligent search engines, offering scalable solutions across domains.
