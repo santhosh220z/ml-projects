@@ -13,3 +13,8 @@ K-Nearest Neighbors (KNN) is a simple, yet powerful supervised machine learning 
 ## Convolutional Neural Network (CNN)
 
 Convolutional Neural Networks (CNNs) are a class of deep learning models designed to process and analyze visual data. They use convolutional layers to automatically extract spatial features from images, followed by pooling and fully connected layers for classification or regression tasks. CNNs are widely used in computer vision applications such as image classification, object detection, and segmentation due to their ability to learn hierarchical patterns and reduce computational complexity.
+
+
+## K-Means Clustering
+
+K-Means is an unsupervised machine learning algorithm used to partition data into distinct clusters based on similarity. It works by initializing 'k' centroids, assigning each data point to the nearest centroid, and iteratively updating the centroids to minimize intra-cluster variance. K-Means is widely used for data segmentation, pattern discovery, and exploratory analysis due to its simplicity, scalability, and effectiveness in uncovering hidden structures in unlabeled datasets.
