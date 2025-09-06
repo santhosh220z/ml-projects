@@ -55,3 +55,15 @@ Useful in high-dimensional datasets and when interpretability is less critical t
 - Outputs class probabilities, making it useful for decision-making tasks
 
 Ideal for baseline models and scenarios where interpretability and speed matter.
+
+
+## ⚙️ Support Vector Machine (SVM) – Brief Overview
+
+**SVM** is a supervised learning algorithm used for classification and regression. It finds the optimal hyperplane that separates data points of different classes with maximum margin.
+
+- Effective in high-dimensional spaces
+- Works well with clear margin of separation
+- Can use kernel functions to handle non-linear data
+- Robust against overfitting, especially in low-dimensional datasets
+
+Ideal for tasks like image recognition, bioinformatics, and text categorization.
