@@ -32,3 +32,14 @@ A **Decision Tree** is a supervised learning algorithm used for classification a
 - Built using metrics like Gini, Entropy, or Information Gain
 - Easy to interpret and visualize
 - Supports both numerical and categorical data
+
+## 🌲 Random Forest (Brief Overview)
+
+**Random Forest** is an ensemble learning method that builds multiple decision trees and merges their outputs to improve accuracy and reduce overfitting.
+
+- Combines predictions from many trees (usually via majority vote or averaging)
+- Handles both classification and regression tasks
+- More robust than a single decision tree
+- Reduces variance and improves generalization
+
+Useful in high-dimensional datasets and when interpretability is less critical than performance.
