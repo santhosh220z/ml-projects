@@ -25,7 +25,7 @@ K-Means is an unsupervised machine learning algorithm used to partition data int
 Large Language Models (LLMs) are advanced deep learning systems trained on massive text datasets to understand, generate, and manipulate human language. They use transformer architectures to capture complex patterns in text, enabling tasks like text generation, summarization, translation, question answering, and code completion. LLMs power modern AI applications such as chatbots, virtual assistants, and intelligent search engines, offering scalable solutions across domains.
 
 
-## 🌳 Decision Tree (Brief Overview)
+## Decision Tree (Brief Overview)
 
 A **Decision Tree** is a supervised learning algorithm used for classification and regression. It splits data into branches based on feature values, forming a tree of decisions.
 
@@ -33,7 +33,7 @@ A **Decision Tree** is a supervised learning algorithm used for classification a
 - Easy to interpret and visualize
 - Supports both numerical and categorical data
 
-## 🌲 Random Forest (Brief Overview)
+## Random Forest (Brief Overview)
 
 **Random Forest** is an ensemble learning method that builds multiple decision trees and merges their outputs to improve accuracy and reduce overfitting.
 
@@ -45,7 +45,7 @@ A **Decision Tree** is a supervised learning algorithm used for classification a
 Useful in high-dimensional datasets and when interpretability is less critical than performance.
 
 
-## 📊 Naive Bayes (Brief Overview)
+## Naive Bayes (Brief Overview)
 
 **Naive Bayes** is a probabilistic classifier based on Bayes’ Theorem, assuming independence between features.
 
@@ -57,7 +57,7 @@ Useful in high-dimensional datasets and when interpretability is less critical t
 Ideal for baseline models and scenarios where interpretability and speed matter.
 
 
-## ⚙️ Support Vector Machine (SVM) – Brief Overview
+## Support Vector Machine (SVM) – Brief Overview
 
 **SVM** is a supervised learning algorithm used for classification and regression. It finds the optimal hyperplane that separates data points of different classes with maximum margin.
 
