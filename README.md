@@ -23,3 +23,12 @@ K-Means is an unsupervised machine learning algorithm used to partition data int
 ## Large Language Model (LLM)
 
 Large Language Models (LLMs) are advanced deep learning systems trained on massive text datasets to understand, generate, and manipulate human language. They use transformer architectures to capture complex patterns in text, enabling tasks like text generation, summarization, translation, question answering, and code completion. LLMs power modern AI applications such as chatbots, virtual assistants, and intelligent search engines, offering scalable solutions across domains.
+
+
+## 🌳 Decision Tree (Brief Overview)
+
+A **Decision Tree** is a supervised learning algorithm used for classification and regression. It splits data into branches based on feature values, forming a tree of decisions.
+
+- Built using metrics like Gini, Entropy, or Information Gain
+- Easy to interpret and visualize
+- Supports both numerical and categorical data
