@@ -43,3 +43,15 @@ A **Decision Tree** is a supervised learning algorithm used for classification a
 - Reduces variance and improves generalization
 
 Useful in high-dimensional datasets and when interpretability is less critical than performance.
+
+
+## 📊 Naive Bayes (Brief Overview)
+
+**Naive Bayes** is a probabilistic classifier based on Bayes’ Theorem, assuming independence between features.
+
+- Fast and efficient for large datasets
+- Performs well with text classification (e.g., spam detection, sentiment analysis)
+- Works best when feature independence roughly holds
+- Outputs class probabilities, making it useful for decision-making tasks
+
+Ideal for baseline models and scenarios where interpretability and speed matter.
