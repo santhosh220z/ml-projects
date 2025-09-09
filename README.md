@@ -66,4 +66,4 @@ Ideal for baseline models and scenarios where interpretability and speed matter.
 - Can use kernel functions to handle non-linear data
 - Robust against overfitting, especially in low-dimensional datasets
 
-Ideal for tasks like image recognition, bioinformatics, and text categorization.
+
